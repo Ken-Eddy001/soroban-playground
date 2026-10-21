@@ -39,6 +39,7 @@ members = [
     "contracts/ccip-bridge",
     "contracts/charity-tracker",
     "contracts/cloud-storage",
+    "contracts/collateral-swap",
     "contracts/content-publishing",
     "contracts/counter",
     "contracts/crop-insurance",
